@@ -54,6 +54,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
+  height:100%;
   color: #fff;
   text-align: center;
   background-color: #159957;
