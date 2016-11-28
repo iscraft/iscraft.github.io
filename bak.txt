@@ -2,8 +2,7 @@ AdBlock
 https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog
 
 All in one Html Compiler
-https://chrome.google.com/webstore/detail/all-in-one-html-compiler/kjoieegokhlfbfjippnfccokkkfdmghk?utm_source=chrome-app-launcher-info-
-dialog
+https://chrome.google.com/webstore/detail/all-in-one-html-compiler/kjoieegokhlfbfjippnfccokkkfdmghk?utm_source=chrome-app-launcher-info-dialog
 
 Better History
 https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb?utm_source=chrome-app-launcher-info-dialog
